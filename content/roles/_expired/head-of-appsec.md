@@ -1,4 +1,5 @@
 ---
+hide          : true
 title         : Head of AppSec
 layout        : role-simple
 date          : 2018-05-28
