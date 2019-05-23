@@ -86,4 +86,5 @@ We are an equal opportunity employer and value diversity at our company. We do n
 
 - **The Role**: Risk & Compliance Manager
 - **Location**: London
-- **Company**: Photobox
+- **Department**: Technology, Security
+- **Employment type**: Full-time

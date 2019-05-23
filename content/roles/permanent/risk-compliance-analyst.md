@@ -81,6 +81,7 @@ We are an equal opportunity employer and value diversity at our company. We do n
 
 ### Metadata
 
-- **The Role**: Risk & Compliance Manager
+- **The Role**: Risk & Compliance Analyst
 - **Location**: London
-- **Company**: Photobox
+- **Department**: Technology, Security
+- **Employment type**: Full-time
