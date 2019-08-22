@@ -22,7 +22,7 @@ Please note that this is not a bug bounty program, but we will recognise the eff
 The prioritization and rating of a submission will be based upon a number of factors including, but not limited to, the Bugcrowd Vulnerability Rating Taxonomy and the business impact of the vulnerability reported.  | 
 
 
-###  Contact us
+###  Contact uss
 
 photobox@submit.bugcrowd.com
 
